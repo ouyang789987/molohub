@@ -11,7 +11,7 @@
 在终端直接执行下面命令一键安装molohub:
 
 ```shell
-curl --silent --show-error --retry 5 https://raw.githubusercontent.com/haoctopus/molohub/master/auto_install.py | sudo python
+curl --silent --show-error --retry 5 https://raw.githubusercontent.com/smarthomefans/molohub/master/auto_install.py | sudo python
 ```
 
 等待提示安装成功后手动重启Home Assistant即可。
@@ -20,7 +20,7 @@ curl --silent --show-error --retry 5 https://raw.githubusercontent.com/haoctopus
 
 **【安装软件】**
 
-- [molohub组件](https://github.com/haoctopus/molohub)
+- [molohub组件](https://github.com/smarthomefans/molohub)
 
 下载`molohub`文件夹，保存在`<homeassistant配置目录>/custom_components/`目录中，若`custom_components`目录不存在则自行创建。
 
@@ -57,9 +57,9 @@ molohub:
 
 **【相关链接】**
 
-平台入口网站：<https://www.molo.cn>
+平台入口网站：<https://smarthomefans.jtsh.top>
 
-molohub组件：<https://github.com/haoctopus/molohub>
+molohub组件：<https://github.com/smarthomefans/molohub>
 
 **【效果展现】**
 
@@ -95,7 +95,7 @@ when Home Assistant runs under the LAN, if you want to access the HA remotely th
 If you are Linux-based user, run the command below to install molohub automatically:
 
 ```shell
-curl --silent --show-error --retry 5 https://raw.githubusercontent.com/haoctopus/molohub/master/auto_install.py | sudo python
+curl --silent --show-error --retry 5 https://raw.githubusercontent.com/smarthomefans/molohub/master/auto_install.py | sudo python
 ```
 
 Wait untill installation success, and restart your Home Assistant.
@@ -104,7 +104,7 @@ If this not working, please install molohub manually according to the next secti
 
 **【Installation】**
 
-- [molohub component](https://github.com/haoctopus/molohub)
+- [molohub component](https://github.com/smarthomefans/molohub)
 
 Download `molohub` folder and put it under `homeassistant configuration directory/custom_components/`. If `custom_components` doesn't exist, create one.
 
@@ -141,9 +141,9 @@ If you need to bind multiple molohubs to control HA with your family, you can op
 
 **【Reference link】**
 
-Platform entrance link：<https://www.molo.cn>
+Platform entrance link：<https://smarthomefans.jtsh.top>
 
-molohub component：<https://github.com/haoctopus/molohub>
+molohub component：<https://github.com/smarthomefans/molohub>
 
 **【Demonstration】**
 
