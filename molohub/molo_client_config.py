@@ -21,7 +21,7 @@ class MoloConfigs:
 
     config_release = {
         'server': {
-            'haweb': "hub.jtsh.top",
+            'haweb': "smarthomefans.jtsh.top",
             'host': "haprx.jtsh.top",
             'port': 4343,
             'bufsize': 1024
