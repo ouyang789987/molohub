@@ -56,12 +56,12 @@ TOKEN_KEY_NAME = 'slavertoken'
 CLIENT_STATUS_UNBINDED = "unbinded"
 CLIENT_STATUS_BINDED = "binded"
 
-CONFIG_FILE_NAME = "molo_client_config"
+CONFIG_FILE_NAME = "molo_client_config_x"
 
 WAIT_FOR_AUTH_STR_TEMPLATE_DEFAULT = """
 Choose platform below to connect:
 
-- [google](http://%s/login/google?token=%s)
+- [github](http://%s/login/github?token=%s)
 """
 
 PROXY_TCP_CONNECTION_ACTIVATE_TIME = 60
